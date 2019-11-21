@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Startup_YP_Friend/static/css/main.b100e6da.chunk.css",
+    "main.js": "/Startup_YP_Friend/static/js/main.6f3dbe55.chunk.js",
+    "main.js.map": "/Startup_YP_Friend/static/js/main.6f3dbe55.chunk.js.map",
+    "runtime-main.js": "/Startup_YP_Friend/static/js/runtime-main.fdfe9a65.js",
+    "runtime-main.js.map": "/Startup_YP_Friend/static/js/runtime-main.fdfe9a65.js.map",
+    "static/js/2.3d9806eb.chunk.js": "/Startup_YP_Friend/static/js/2.3d9806eb.chunk.js",
+    "static/js/2.3d9806eb.chunk.js.map": "/Startup_YP_Friend/static/js/2.3d9806eb.chunk.js.map",
+    "index.html": "/Startup_YP_Friend/index.html",
+    "precache-manifest.84091dd4a6f65f214e9486ce64770236.js": "/Startup_YP_Friend/precache-manifest.84091dd4a6f65f214e9486ce64770236.js",
+    "service-worker.js": "/Startup_YP_Friend/service-worker.js",
+    "static/css/main.b100e6da.chunk.css.map": "/Startup_YP_Friend/static/css/main.b100e6da.chunk.css.map",
+    "static/media/logo.svg": "/Startup_YP_Friend/static/media/logo.25bf045c.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fdfe9a65.js",
+    "static/js/2.3d9806eb.chunk.js",
+    "static/css/main.b100e6da.chunk.css",
+    "static/js/main.6f3dbe55.chunk.js"
+  ]
+}
